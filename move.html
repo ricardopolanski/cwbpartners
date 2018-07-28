@@ -1,0 +1,41 @@
+<script
+			  src="https://code.jquery.com/jquery-3.3.1.js"
+			  integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+			  crossorigin="anonymous"></script>
+
+<div class="box">
+        <div id="banks">
+            <ul>
+                <li class="active1">Bank1</li>
+                <li>Bank2</li>
+            </ul>
+        </div>
+        <div id="buttons">
+            <ul>
+                <li class="active2">USD</li>
+                <li>EURO</li>
+            </ul>        
+        </div>
+</div>
+
+
+<script>
+
+$(document).ready(function(){
+    $('.box li').click(function(){
+    $('.box li').removeClass('active1');
+    $('.box li').removeClass('active2');
+    $(this).addClass('active1');
+    $(this).addClass('active2');
+});
+    });
+</script>
+
+.active1{
+color:Red
+}
+.active2{
+background-color:blue
+}
+
+

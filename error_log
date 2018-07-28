@@ -1,0 +1,39 @@
+[19-Jul-2018 08:41:30 CST6CDT] PHP Warning:  include(header.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 1
+[19-Jul-2018 08:41:30 CST6CDT] PHP Warning:  include(header.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 1
+[19-Jul-2018 08:41:30 CST6CDT] PHP Warning:  include(): Failed opening 'header.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cwbpart/public_html/novosite/index.php on line 1
+[19-Jul-2018 08:41:30 CST6CDT] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 336
+[19-Jul-2018 08:41:30 CST6CDT] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 336
+[19-Jul-2018 08:41:30 CST6CDT] PHP Warning:  include(): Failed opening 'footer.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cwbpart/public_html/novosite/index.php on line 336
+[19-Jul-2018 13:03:26 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:03:26 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:03:26 CST6CDT] PHP Warning:  include(): Failed opening 'planos_div.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:03:29 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:03:29 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:03:29 CST6CDT] PHP Warning:  include(): Failed opening 'planos_div.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:04:11 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:04:11 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:04:11 CST6CDT] PHP Warning:  include(): Failed opening 'planos_div.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:04:15 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:04:15 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:04:15 CST6CDT] PHP Warning:  include(): Failed opening 'planos_div.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:04:15 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:04:15 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:04:15 CST6CDT] PHP Warning:  include(): Failed opening 'planos_div.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:05:41 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:05:41 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:05:41 CST6CDT] PHP Warning:  include(): Failed opening 'planos_div.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:06:57 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:06:57 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:06:57 CST6CDT] PHP Warning:  include(): Failed opening 'planos_div.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:07:05 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:07:05 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:07:05 CST6CDT] PHP Warning:  include(): Failed opening 'planos_div.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:08:43 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:08:43 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:08:43 CST6CDT] PHP Warning:  include(): Failed opening 'planos_div.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:09:21 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:09:21 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:09:21 CST6CDT] PHP Warning:  include(): Failed opening 'planos_div.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:10:30 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:10:30 CST6CDT] PHP Warning:  include(planos_div.html): failed to open stream: No such file or directory in /home/cwbpart/public_html/novosite/index.php on line 104
+[19-Jul-2018 13:10:30 CST6CDT] PHP Warning:  include(): Failed opening 'planos_div.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cwbpart/public_html/novosite/index.php on line 104
